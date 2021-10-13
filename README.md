@@ -1,5 +1,5 @@
 # mini-crab-game
-A very small 2D game (with the use of mlx graphic library).
+A very small 2D game for MacOS (with the use of mlx graphic library).
 
 Includes bonus version with slightly animated sprites.
 
